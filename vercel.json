@@ -1,6 +1,7 @@
 {
     "version": 2,
     "trailingSlash": true,
+    "cleanUrls": true,
     "builds": [
         {
             "src": "frontend/package.json",
@@ -22,6 +23,10 @@
         {
             "source": "/uploads/(.*)",
             "destination": "/backend/src/index.js"
+        },
+        {
+            "source": "/((?!api/|uploads/|_next/|static/|favicon.ico).*)",
+            "destination": "/index.html"
         }
     ]
 }
