@@ -1,5 +1,5 @@
 -- =============================================
--- SaaS Gestion Commerciale – Schéma PostgreSQL
+-- Green Factures – Schéma PostgreSQL
 -- Multi-tenant : chaque entreprise a ses données isolées
 -- =============================================
 

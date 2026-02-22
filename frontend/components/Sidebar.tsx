@@ -33,7 +33,7 @@ export default function Sidebar() {
             <div className="p-6">
                 <h2 className="text-2xl font-bold text-white flex items-center gap-2">
                     <span className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center text-sm">G</span>
-                    GestionSaaS
+                    Green Factures
                 </h2>
             </div>
 

@@ -21,9 +21,9 @@ export default function Home() {
       <nav className="container mx-auto px-6 py-4 flex justify-between items-center bg-slate-900/50 backdrop-blur-md sticky top-0 z-50 border-b border-slate-800">
         <div className="flex items-center space-x-2">
           <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-xl">g</span>
+            <span className="text-white font-bold text-xl">G</span>
           </div>
-          <span className="text-xl font-bold text-white">GestionSaaS</span>
+          <span className="text-xl font-bold text-white">Green Factures</span>
         </div>
         <div>
           {user ? (

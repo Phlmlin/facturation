@@ -31,7 +31,7 @@ app.use('/api/dashboard', dashboardRoutes);
 
 // Route de base
 app.get('/', (req, res) => {
-    res.send('API SaaS Gestion Commerciale en ligne.');
+    res.send('API Green Factures en ligne.');
 });
 
 // Gestion des erreurs globale

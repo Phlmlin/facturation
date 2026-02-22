@@ -7,7 +7,7 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "GestionSaaS – Facturation Simple",
+  title: "Green Factures – Facturation Simple",
   description: "Solution de facturation pour entrepreneurs africains",
 };
 
